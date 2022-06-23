@@ -16,20 +16,20 @@ Você será responsável por escolher qual técnica irá atender os seguintes re
  
 • Enquanto a quantidade de participantes for inferior a 100, permitir cadastro; senão, alertar que o cadastro não será permitido por ter excedido o limite.
  
-• Criar fluxograma com todos os requisitos que devem ser atendidos pelo sistema.
+• Criar fluxograma com todos os requisitos que devem ser atendidos pelo sistema. 
 #
  
 Para criação desse sistema de cadastro, você, enquanto programador(a) responsável, deverá solucionar os seguintes desafios:
  
 <b>Desafio 1</b>
 <br> 
-Descrever a sequência de passos lógicos necessários para criação do sistema 
+> Descrever a sequência de passos lógicos necessários para criação do sistema 
 solicitado pela empresa.
  
 <b>Desafio 2</b>
 <br> 
-Aplicar técnicas de programação e ferramentas para desenvolvimento do código.
+> Aplicar técnicas de programação e ferramentas para desenvolvimento do código.
  
 <b>Desafio 3</b>
 <br> 
-Aplicar linguagem de programação para implementação do sistema.
+> Aplicar linguagem de programação para implementação do sistema.
