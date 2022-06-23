@@ -12,7 +12,7 @@ Você será responsável por escolher qual técnica irá atender os seguintes re
  
 • Se o participante for maior de 18 anos, permitir o cadastro; senão, alertar que o cadastro não é permitido pela idade.
  
-• Listar participantes e palestrantes por evento. //não é obrigatório 
+• Listar participantes e palestrantes por evento. <!--não é obrigatório-->
  
 • Enquanto a quantidade de participantes for inferior a 100, permitir cadastro; senão, alertar que o cadastro não será permitido por ter excedido o limite.
  
@@ -21,12 +21,15 @@ Você será responsável por escolher qual técnica irá atender os seguintes re
  
 Para criação desse sistema de cadastro, você, enquanto programador(a) responsável, deverá solucionar os seguintes desafios:
  
-<b>Desafio 1</b> <br> 
+<b>Desafio 1</b>
+<br> 
 Descrever a sequência de passos lógicos necessários para criação do sistema 
 solicitado pela empresa.
  
-<b>Desafio 2</b> <br> 
+<b>Desafio 2</b>
+<br> 
 Aplicar técnicas de programação e ferramentas para desenvolvimento do código.
  
-<b>Desafio 3</b> <br> 
+<b>Desafio 3</b>
+<br> 
 Aplicar linguagem de programação para implementação do sistema.
