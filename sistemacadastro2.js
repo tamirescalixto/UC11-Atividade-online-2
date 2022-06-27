@@ -7,25 +7,26 @@
 // Enquanto a quantidade de participantes for inferior a 100, permitir cadastro; senão, alertar que o cadastro não será permitido por ter excedido o limite.
 
 
-let idadeMinima = 18;
-let idadeCliente = 19;
+prompt = require("prompt-sync")();
 
-            //condição                     //true                //false
+const idadeMinima = 18;
+let idadeCliente = parseInt(prompt("Sua idade: "))
+
+//condição                     //true                //false
 console.log(idadeCliente >= idadeMinima ? "Permitir Cadastro!" : "O cadastro não é permitido pela idade!")
 
-
-    function imprimeTexto(texto){
+    function imprimeTexto(texto) {
         console.log(texto)
 
-}
+    }
 
 let dataAtual = new Date(); // Salvando a data de hoje
-let dataEvento = new Date ("2022-07-15") // Salvando a data do evento como uma string 
+let dataEvento = parseInt(prompt("Data do Evento: ")) // Salvando a data do evento como uma string 
 
-            //condição                 //true                //false
+//condição                 //true                //false
 console.log(dataEvento >= dataAtual ? "Permitir Cadastro!" : "O cadastro não é permitido por data inválida!")
 
-    function imprimeTexto(texto){
+    function imprimeTexto(texto) {
         console.log(texto)
     }
 
@@ -33,9 +34,9 @@ console.log(dataEvento >= dataAtual ? "Permitir Cadastro!" : "O cadastro não é
 let quantidadeParticipantes = 100;
 let numeroInscricaoParticipante = 101;
 
-            //condição                                                //true                //false
+//condição                                                //true                //false
 console.log(quantidadeParticipantes >= numeroInscricaoParticipante ? "Permitir Cadastro!" : "O cadastro não é permitido por ter excedido o limite de inscritos!")
 
-    function imprimeTexto(texto){
+    function imprimeTexto(texto) {
         console.log(texto)
     }
